@@ -1,1 +1,5 @@
-div{background-color: aquamarine;}
+div{background-color: aquamarine;
+    padding: 20px;
+    border: 30px solid orange;
+    box-shadow: 10px 20px 30px;
+}
